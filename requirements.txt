@@ -1,0 +1,10 @@
+ipykernel
+ipywidgets
+numpy
+scipy
+segyio
+matplotlib
+tqdm
+scikit-learn
+ipyfilechooser
+pandas
